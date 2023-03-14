@@ -19,7 +19,5 @@
   "automerge": true,
   "timezone": "Africa/Johannesburg",
   "schedule": ["after 9pm", "before 6am"],
-  "pub": {
-    "ignorePaths": ["**/example/**"]
-  }
+  "ignorePaths": ["**/example/**"]
 }
